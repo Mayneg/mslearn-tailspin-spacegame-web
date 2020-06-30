@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/guymayne/Implement-code-workflow-in-your-build/_apis/build/status/Mayneg.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/guymayne/Implement-code-workflow-in-your-build/_build/latest?definitionId=7&branchName=master)
 
 # Contributing
 
